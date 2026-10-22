@@ -20,6 +20,27 @@
           "vpmDependencies": {},
           "url": "https://siwo32.github.io/mim-project-health-scanner-vpm/packages/com.mim.project-health-scanner-1.0.0.zip",
           "zipSHA256": "FA79CEEF9199D4E119D4D9B4D1DF4A1F3E7B6C39C362DABCF973C7897CD1F280"
+        },
+        "2.0.0": {
+          "name": "com.mim.project-health-scanner",
+          "displayName": "MiM Project Health Scanner",
+          "version": "2.0.0",
+          "unity": "2022.3",
+          "description": "Hierarchy-based asset cleanup with protected references, capacity estimates, backup restore and deletion history.",
+          "author": {
+            "name": "MiM"
+          },
+          "vpmDependencies": {},
+          "keywords": [
+            "VRChat",
+            "VCC",
+            "VPM",
+            "Unity",
+            "Project",
+            "Scanner"
+          ],
+          "url": "https://siwo32.github.io/mim-project-health-scanner-vpm/packages/com.mim.project-health-scanner-2.0.0.zip",
+          "zipSHA256": "A0C76C62D256BF2C6EBB8540CFB51B3FCAA144366715E8D9BE261E0DB5D71AA4"
         }
       }
     }
